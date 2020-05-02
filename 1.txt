@@ -1,4 +1,4 @@
-http=a1.ap.fastqvpn.com:29980, username="295563382470213632", password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连
-http=a2.ap.fastqvpn.com:29980, username="295563382470213632", password=bd886842-3e50-473f-a0ad-0e8e5f34248f,  over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
-http=a3.ap.fastqvpn.com:29980, username="295563382470213632", password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连2
-http=a4.ap.fastqvpn.com:29980, username="295563382470213632", password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连3
+http=a1.ap.fastqvpn.com:29980, username=295563382470213632, password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连
+http=a2.ap.fastqvpn.com:29980, username=295563382470213632, password=bd886842-3e50-473f-a0ad-0e8e5f34248f,  over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连1
+http=a3.ap.fastqvpn.com:29980, username=295563382470213632, password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连2
+http=a4.ap.fastqvpn.com:29980, username=295563382470213632, password=bd886842-3e50-473f-a0ad-0e8e5f34248f, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连3
